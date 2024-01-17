@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 
 
 ![Codewars](https://www.codewars.com/users/amirdev0/badges/large)
+
+
+![LeetCode Stats](https://leetcode.card.workers.dev/amirdev0?theme=nord&font=source_code_pro&extension=null)
