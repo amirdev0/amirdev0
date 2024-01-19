@@ -39,5 +39,10 @@ Here are some ideas to get you started:
 
 ![Codewars](https://www.codewars.com/users/amirdev0/badges/large)
 
+## ⚔ Codewars Stats:
+<p align="center">
+  <img width="50%" src="https://github.r2v.ch/codewars?user=amirdev0&top_languages=true&stroke=%23b362ff&theme=gradient_light" />
+</p>
+
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/amirdev0?theme=nord&font=baloo&extension=null)
