@@ -30,8 +30,8 @@
 <a href='' target="_blank"><img alt='hackthebox' src='https://img.shields.io/badge/hackthebox-100000?style=flat&logo=hackthebox&logoColor=f0f0f0&labelColor=5fa9c9&color=5fa9c9'/></a>
 
 #### ✍️ Read me on:
-- [dev.to](https://dev.to/amirdev0) and [hashnode.com](https://hashnode.com/@amirdev0) in english
-- ![habr.com](https://proglib.io/u/amirdev0) and [proglib.com](https://proglib.io/u/amirdev0) in russian
+- ![dev.to](https://dev.to/amirdev0) and ![hashnode.com](https://hashnode.com/@amirdev0) in english
+- ![habr.com](https://habr.com/ru/users/amirdev0/) and ![proglib.com](https://proglib.io/u/amirdev0) in russian
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirdev0&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
