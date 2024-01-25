@@ -19,13 +19,13 @@
 <a href='' target="_blank"><img alt='Figma' src='https://img.shields.io/badge/Figma-100000?style=for-the-badge&logo=Figma&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
 
 ### 👨‍💻 Find me on:
-<a href='https://www.codewars.com/users/amirdev0' target="_blank"><img alt='codewars' src='https://img.shields.io/badge/codewars-100000?style=for-the-badge&logo=codewars&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
-<a href='https://leetcode.com/amirdev0/' target="_blank"><img alt='leetcode' src='https://img.shields.io/badge/leetcode-100000?style=for-the-badge&logo=leetcode&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
-<a href='https://codeforces.com/profile/amig0' target="_blank"><img alt='codeforces' src='https://img.shields.io/badge/codeforces-100000?style=for-the-badge&logo=codeforces&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
-<a href='https://www.hackerrank.com/profile/amirdev0' target="_blank"><img alt='hackerrank' src='https://img.shields.io/badge/hackerrank-100000?style=for-the-badge&logo=hackerrank&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
-<a href='https://www.codechef.com/users/amirdev0' target="_blank"><img alt='codechef' src='https://img.shields.io/badge/codechef-100000?style=for-the-badge&logo=codechef&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
-<a href='https://www.hackerearth.com/@amirdev0' target="_blank"><img alt='hackerearth' src='https://img.shields.io/badge/hackerearth-100000?style=for-the-badge&logo=hackerearth&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
-<a href='' target="_blank"><img alt='hackthebox' src='https://img.shields.io/badge/hackthebox-100000?style=for-the-badge&logo=hackthebox&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
+<a href='https://www.codewars.com/users/amirdev0' target="_blank"><img alt='codewars' src='https://img.shields.io/badge/codewars-100000?style=flat&logo=codewars&logoColor=f0f0f0&labelColor=5fa9c9&color=5fa9c9'/></a>
+<a href='https://leetcode.com/amirdev0/' target="_blank"><img alt='leetcode' src='https://img.shields.io/badge/leetcode-100000?style=flat&logo=leetcode&logoColor=f0f0f0&labelColor=5fa9c9&color=5fa9c9'/></a>
+<a href='https://codeforces.com/profile/amig0' target="_blank"><img alt='codeforces' src='https://img.shields.io/badge/codeforces-100000?style=flat&logo=codeforces&logoColor=f0f0f0&labelColor=5fa9c9&color=5fa9c9'/></a>
+<a href='https://www.hackerrank.com/profile/amirdev0' target="_blank"><img alt='hackerrank' src='https://img.shields.io/badge/hackerrank-100000?style=flat&logo=hackerrank&logoColor=f0f0f0&labelColor=5fa9c9&color=5fa9c9'/></a>
+<a href='https://www.codechef.com/users/amirdev0' target="_blank"><img alt='codechef' src='https://img.shields.io/badge/codechef-100000?style=flat&logo=codechef&logoColor=f0f0f0&labelColor=5fa9c9&color=5fa9c9'/></a>
+<a href='https://www.hackerearth.com/@amirdev0' target="_blank"><img alt='hackerearth' src='https://img.shields.io/badge/hackerearth-100000?style=flat&logo=hackerearth&logoColor=f0f0f0&labelColor=5fa9c9&color=5fa9c9'/></a>
+<a href='' target="_blank"><img alt='hackthebox' src='https://img.shields.io/badge/hackthebox-100000?style=flat&logo=hackthebox&logoColor=f0f0f0&labelColor=5fa9c9&color=5fa9c9'/></a>
 
 ### ✍️ Read me on:
 <a href='' target="_blank"><img alt='dev.to' src='https://img.shields.io/badge/dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
