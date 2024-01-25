@@ -1,16 +1,6 @@
 <h1 align="center">Salute 👋, I'm Amirshokh</h1>
 <h3 align="center">A passionate computer science student from Uzbekistan</h3>
 
-## 💫 About Me:
-- 🔭 I’m currently working on Food Delivery System
-- 🌱 I’m currently learning Embedded and Backend Development
-- 👯 I’m looking to collaborate on something
-- 🤔 I’m looking for help with chores
-- 💬 Ask me about my plans
-- 📫 How to reach me: write to my LinkedIn profile
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: actually I love programming
-
 ## 🛠 What I do:
 *  Build backend and embedded systems
 *  Solve architectural and algorithmic problems
