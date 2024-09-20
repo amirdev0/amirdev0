@@ -16,7 +16,7 @@
 <a href='https://github.com/amirdev0' target="_blank"><img alt='python' src='https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
 <a href='https://github.com/amirdev0' target="_blank"><img alt='GNU bash' src='https://img.shields.io/badge/bash-100000?style=for-the-badge&logo=GNU bash&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
 <a href='https://github.com/amirdev0' target="_blank"><img alt='gnu' src='https://img.shields.io/badge/gnu_make-100000?style=for-the-badge&logo=gnu&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
-<a href='https://github.com/amirdev0' target="_blank"><img alt='espressif' src='https://img.shields.io/badge/esp_idf-100000?style=for-the-badge&logo=espressif&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
+<a href='https://github.com/amirdev0' target="_blank"><img alt='espressif' src='https://img.shields.io/badge/espressif-100000?style=for-the-badge&logo=espressif&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
 <a href='https://github.com/amirdev0' target="_blank"><img alt='arduino' src='https://img.shields.io/badge/arduino-100000?style=for-the-badge&logo=arduino&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
 <a href='https://github.com/amirdev0' target="_blank"><img alt='Figma' src='https://img.shields.io/badge/Figma-100000?style=for-the-badge&logo=Figma&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
 
