@@ -4,20 +4,21 @@
 - Build backend and embedded systems
 - Solve architectural and algorithmic problems
 - Collaborate with anyone who reaches me out
-- Share my knowledge through "Computer Science Studies" Project
+- Share my knowledge through "Computer Science Studies" project
 
 ### 💻 Tech Stack:
 <a href='https://github.com/amirdev0' target="_blank"><img alt='linux' src='https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
-<a href='https://github.com/amirdev0' target="_blank"><img alt='github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
 <a href='https://github.com/amirdev0' target="_blank"><img alt='git' src='https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
+<a href='https://github.com/amirdev0' target="_blank"><img alt='mysql' src='https://img.shields.io/badge/mysql-100000?style=for-the-badge&logo=mysql&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
 <a href='https://github.com/amirdev0' target="_blank"><img alt='C' src='https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
+<a href='https://github.com/amirdev0' target="_blank"><img alt='cplusplus' src='https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=cplusplus&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
 <a href='https://github.com/amirdev0' target="_blank"><img alt='go' src='https://img.shields.io/badge/golang-100000?style=for-the-badge&logo=go&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
+<a href='https://github.com/amirdev0' target="_blank"><img alt='python' src='https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
 <a href='https://github.com/amirdev0' target="_blank"><img alt='GNU bash' src='https://img.shields.io/badge/bash-100000?style=for-the-badge&logo=GNU bash&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
 <a href='https://github.com/amirdev0' target="_blank"><img alt='gnu' src='https://img.shields.io/badge/gnu_make-100000?style=for-the-badge&logo=gnu&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
-<a href='https://github.com/amirdev0' target="_blank"><img alt='mysql' src='https://img.shields.io/badge/mysql-100000?style=for-the-badge&logo=mysql&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
+<a href='https://github.com/amirdev0' target="_blank"><img alt='espressif' src='https://img.shields.io/badge/esp_idf-100000?style=for-the-badge&logo=espressif&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
 <a href='https://github.com/amirdev0' target="_blank"><img alt='arduino' src='https://img.shields.io/badge/arduino-100000?style=for-the-badge&logo=arduino&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
 <a href='https://github.com/amirdev0' target="_blank"><img alt='Figma' src='https://img.shields.io/badge/Figma-100000?style=for-the-badge&logo=Figma&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
-<a href='https://github.com/amirdev0' target="_blank"><img alt='markdown' src='https://img.shields.io/badge/markdown-100000?style=for-the-badge&logo=markdown&logoColor=5fa9c9&labelColor=f0f0f0&color=5fa9c9'/></a>
 
 ### 👨‍💻 Find me on:
 <a href='https://www.codewars.com/users/amirdev0' target="_blank"><img alt='codewars' src='https://img.shields.io/badge/codewars-100000?style=flat&logo=codewars&logoColor=f0f0f0&labelColor=5fa9c9&color=5fa9c9'/></a>
