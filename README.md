@@ -3,7 +3,6 @@
 ### 🛠 What I do:
 - Build backend and embedded systems
 - Solve architectural and algorithmic problems
-- Collaborate with anyone who reaches me out
 - Share my knowledge through "Computer Science Studies" project
 
 ### 💻 Tech Stack:
